@@ -76,6 +76,7 @@ test:
     - mocha
 ```
 
+
 ## ADD PROJECT TO CIRCLECI
 
 Once everything is set up, push the code to a Gihub repository, login to CircleCI with Github then go to CircleCI > Add Projects and build your repository. If everything is correctly set up, you should have a succesful build.
