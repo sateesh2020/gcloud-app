@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: scotch-dep
+  name: nodejs-app
   labels:
     #Project ID
     app: node-app-160805
