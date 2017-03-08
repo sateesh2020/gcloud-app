@@ -307,5 +307,6 @@ To access the UI locally, run the following command.
 $ kubectl proxy
 ```
 
-Go to [http://localhost:8001/ui](http://localhost:8001/ui), you should see a dashboard like this. This particular service section displays all the pods running in the cluster.
+Go to [http://localhost:8001/ui](http://localhost:8001/ui), you should see a dashboard. This particular service section displays all the pods running in the cluster.
+
 
